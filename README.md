@@ -3,13 +3,13 @@
 
 ## Welcome to my page!
 
-***
+<hr style="border: dashed red 1.0px;background-color: #39FF14;height: 0.5px;"/>
 
 I like to write code and make it do things... 😏
 
 Currently working with software connecting people and physical movement.
 
-***
+<hr style="border: dashed red 1.0px;background-color: #39FF14;height: 0.5px;"/>
 
 ![Sindre's GitHub stats](https://github-readme-stats.vercel.app/api?username=filoteemo&count_private=true&show_icons=true&theme=tokyonight)
 
