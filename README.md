@@ -5,8 +5,6 @@
 
 ***
 
-I like to write code and make it do things... 😏
-
 Currently working with software connecting people and physical movement.
 
 ***
