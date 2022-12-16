@@ -9,7 +9,7 @@ Currently working with software connecting people and physical movement.
 
 ***
 
-![Sindre's GitHub stats](https://github-readme-stats.vercel.app/api?username=filoteemo&count_private=true&show_icons=true&theme=tokyonight)
+![Sindre's GitHub stats](https://github-readme-stats.vercel.app/api?username=filoteemo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoteemo&langs_count=8&layout=compact)](https://github.com/filoteemo/github-readme-stats) -->
