@@ -3,12 +3,6 @@
 
 ## Welcome to my page!
 
-***
-
-Currently working with software connecting people and physical movement.
-
-***
-
 <!--![Sindre's GitHub stats](https://github-readme-stats.vercel.app/api?username=filoteemo&theme=dark)-->
 
 
